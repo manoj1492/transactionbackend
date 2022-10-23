@@ -1,0 +1,25 @@
+[
+	{
+		"id": 1,
+		"email":"manoj@abc.com",
+		"password": "password123",
+		"firstName": "MANOJ",
+		"lastName": "",
+		"enabled": true,
+		"accountLocked": false,
+		"failedAttempt": 0,
+		"lockTime":""
+		
+	},
+	{
+		"id": 2,
+		"email":"admin@abc.com",
+		"password": "password123",
+		"firstName": "admin",
+		"lastName": "",
+		"enabled": true,
+		"accountLocked": false,
+		"failedAttempt": 0,
+		"lockTime":""
+	}
+]

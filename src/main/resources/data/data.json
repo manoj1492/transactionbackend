@@ -1,0 +1,60 @@
+[
+	{
+		"reference": "",
+		"customerInfo": {
+			"customerId": 123,
+			"name": "LOUIS",
+			"address": "",
+			"phone": 1234567890,
+			"accountNum": 123	
+		},
+		"beneficiary": {
+			"bank": "MCB",
+			"accountNum": "1234567899"
+		},
+		"amount": 10.0,
+		"currency": "AED",
+		"cardNum": "",
+		"region": "Port Louis"
+		
+	},
+	{
+		"reference": "",
+		"customerInfo": {
+			"customerId": 122,
+			"name": "DANNY",
+			"address": "",
+			"phone": 1234567890,
+			"accountNum": 123	
+		},
+		"beneficiary": {
+			"bank": "MCB",
+			"accountNum": "1234567898"
+		},
+		"amount": 15.0,
+		"currency": "EUR",
+		"cardNum": "1234345645342345",
+		"region": "Curepipe"
+		
+	},
+	{
+		"reference": "",
+		"customerInfo": {
+			"customerId": 123,
+			"name": "HARRY",
+			"address": "",
+			"phone": 1234567890,
+			"accountNum": 123	
+		},
+		"beneficiary": {
+			"bank": "MCB",
+			"accountNum": "1234567897"
+		},
+		"amount": 23.5,
+		"currency": "AED",
+		"cardNum": "1234345645342378",
+		"region": "Vacoas"
+		
+	}
+	
+]
